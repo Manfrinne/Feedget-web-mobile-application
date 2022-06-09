@@ -1,0 +1,35 @@
+# NLW - 8
+
+## 1ª Aula - ReactJS
+
+### Conteúdo Técnico
+
+- [x] Ambiente de desenvolvimento
+- [x] Fluxo de um SPA
+- [x] Criando projeto com ReactJS
+- [x] Conceitos de React
+  - 1. Componente
+  - 2. Propriedade
+- [x] Configuração do Tailwind
+- [x] Componente de Widget (Abrir/Fechar)
+- [x] Conceitos de acessibilidade
+- [x] Utilizando PopOver
+
+## 2ª Aula - ReactJS
+
+### Conteúdo Técnico
+
+- [x] Estilos Globais (cor de fundo)
+- [x] Estrutura WidgetForm
+  - [x] Header
+  - [x] Footer
+  - [x] Componente de CloseButton
+- [x] Escolha do tipo de feedback
+- [x] Separando componente de passos
+- [x] Comunicação de componentes
+- [x] Conteúdo do feedback
+- [x] Funcionalidade de Screenshot
+- [x] Componente de Screenshot
+- [x] Componente de loading
+- [x] Envio de feedback
+- [x] Sucesso do feedback
