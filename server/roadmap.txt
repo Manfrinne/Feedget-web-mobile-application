@@ -1,0 +1,38 @@
+# NLW - 8
+
+## 3ª Aula - NodeJS
+
+### Conteúdo Técnico
+
+- [x] Fluxo da aplicação
+- [x] Setup da estrutura
+  - [x] TypeScript
+  - [x] ts-node-dev
+- [x] Configurar Express
+- [x] Configuração Prisma
+- [x] Rota de feedback
+- [x] Envio de Email
+- [x] Princípios SOLID
+  - [x] Single Resposability Principle
+  - [x] Liskov Substitution Principle
+  - [x] Dependency Inversion Principle
+- [x] Aplicando SOLID na aplicação
+- [x] Configurando Jest
+- [x] Testes unitários na aplicação
+
+---
+
+## Notes:
+
+### SOLID
+
+1. Single Resposability Principle
+   - 1.1. Cada classe/função deve ter uma única responsabilidade
+2. Open/Closed Principle
+   - 2.1. As classes/funções da aplicação devem estar abertas para extensão, mas fechadas para modificação
+3. Liskov Substitution Principle
+   - 3.1. Devemos poder substituir uma classe/função pai por uma herança dela e tudo deve continuar funcionando
+4. Interface Segregation Principle
+   - 4.1. Separar por meio de interface as várias funcionalidades de uma classe (ex. "class" Impressora "implement" scanner, print, etc.)
+5. Dependency Inversion Principle
+   - 5.1. A dependência de uma classe/função estará determinada de maneira externa a ela, isto é, os serviços aos quais uma classe/função necessita podem ser substituídos (ex. TypeORM substituído por um Prisma) e deve continuar funcionando.
