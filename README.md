@@ -2,7 +2,7 @@
 
 # FEEDGET - Feedback Widget
 
-> Desenvolvimento fullstack de uma aplicação Web
+> Desenvolvimento fullstack de uma aplicação Web/Mobile
 </div>
 
 
