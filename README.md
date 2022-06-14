@@ -83,7 +83,6 @@ $ npm run dev
 $ cd mobile
 # Instale as dependências.
 $ npm install
-# If you are going to emulate with android, run this command
 # Se estiver no emulador android, execute
 $ npm run android
 # e estiver no emulador IOS, execute
